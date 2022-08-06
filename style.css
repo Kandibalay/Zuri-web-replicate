@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #fefaf9;
+}
+#header1 {
+    padding :60px 0px ;
+    font-size: 24x;
+    text-align: center;
+}
+#dot {
+    color: #e8332c;
+}
+#header2 {
+    padding: 30px 0px;
+    text-align: center;
+    font-size: 34px;
+}
+.unlock {
+    padding: 10px 22%;
+    text-align: center;
+    font-size: 18px;
+
+}
+.mid {
+    color: #e8332c;
+    text-decoration: none;
+
+}
+.tag {
+    display: flex;
+    justify-content: center;
+    
+}
+.industry {
+    border: 1px solid red;
+    margin: 100px 10px;
+    padding: 12px 30px;
+    font-size: 18px;
+    background-color: #e8332c;
+    color: #fefaf9;
+}
+.experience {
+    border: 1px solid #e8332c;
+    margin: 100px 10px;
+    padding: 12px 30px;
+    font-size: 18px;
+}
+#industry{
+    text-decoration: none;
+    color: #fefaf9;
+}
+#experience {
+    text-decoration: none;
+    color: #e8332c;
+}
+.industry:hover, #industry:hover{
+    background-color: #fefaf9;
+    color: #e8332c;
+
+}
+.experience:hover, #experience:hover {
+    background-color: #e8332c;
+    color: #fefaf9;
+}
+#team {
+    margin-top: 30%;
+
+}
+.team {
+    font-size: 16px;
+    color: #e8332c;
+    text-align: center;
+}
+.cater {
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+    line-height: 40px;
+}
+#package {
+    display: flex;
+    margin: 5px;
+    padding: 20px;
+    
+
+}
+.train {
+    margin: 20px;
+    padding: 50px 80px 50px 15px; 
+}
+.package {
+    margin: 50px 0px;
+    font-size: 18px;
+    
+}
+.detail {
+    font-size: 18px;
+    margin-top: 40px;
+    padding-top: 40px;
+    font-stretch: expanded;
+    height: 200px;
+    word-spacing: 3px;
+
+}
+.packages {
+    text-decoration: none;
+    color: #e8332c;
+}
+.join {
+    margin-top: 20px;
+    font-size: 18px;
+}
+#info {
+    margin:15% 20px 20px 20px;
+    display: flex;
+    padding: 20px 50px 20px 0px;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    border: 2px solid black;
+}
+.info {
+    padding: 20px 15% 20px 0px;
+}
+.info, h3 {
+    padding: 0px 40px;
+}
