@@ -243,16 +243,18 @@ footer{
     .industry {
        
         margin: 40px auto ;
-        padding: 12px 20px;
+        padding: 10px 25px;
         width: 80%;
     }
     .experience {
-        margin: 2px 10px;
-        padding: 12px 25px;
+        margin: 3px 10px;
+        padding: 10px 25px;
     
     }
     #team {
         margin-top: 20%;
+        background-color: white;
+        
     }
     #info {
         display: flex;
@@ -260,7 +262,6 @@ footer{
         justify-content: center;
         align-items: center;
         margin-top: 27%;
-        background-color: white;
     }
     .info {
         display: flex;
@@ -287,7 +288,6 @@ footer{
     #package {
         font-family: 'poppins';
         font-size: 14px;
-        background-color: white;
     }
     .tip {
         font-size: 30px;
